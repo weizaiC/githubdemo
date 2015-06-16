@@ -1,0 +1,5 @@
+ee
+public static voicd test()
+{
+	123
+}
